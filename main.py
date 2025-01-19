@@ -1,5 +1,5 @@
 def main():
-    book_path = "../*.txt"
+    book_path = "test.txt"
     text = get_book_text(book_path)
     
     print(f"--- Begin report of {book_path} ---")
